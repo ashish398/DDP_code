@@ -1,0 +1,30 @@
+Name,SASA,Apolar-SASA,Polar-SASA,Solvation-energy(kcal/mol),pI,NaCl-concentration(mM),pH,B22,Aggregation,Technique,Circular Dichroism,Link
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,40,4.6,2.6,0,novel fabricated dualdetector cell,,https://www.cell.com/biophysj/pdf/S0006-3495(04)73868-0.pdf
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,150,4.6,1,0,novel fabricated dualdetector cell,,
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,400,4.6,-1.8,1,novel fabricated dualdetector cell,,
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,1014,4.6,-3,1,novel fabricated dualdetector cell,,
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,40,4.6,3.8,0,static light scattering technique,,Rosenbaum and Zukoski (1996)
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,100,4.5,0.75,0,SIC (self interaction chromatography),,https://spiral.imperial.ac.uk:8443/bitstream/10044/1/17935/1/Quigley-AL-2013-PhD-Thesis.pdf
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,300,4.5,-4,1,SIC (self interaction chromatography),,
+Lysozyme,6447.08,3132.05,3362.67,-1823.3343,11,500,4.5,-5.9,1,SIC (self interaction chromatography),,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,40,3,0.9,0,novel fabricated dualdetector cell,,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,100,3,0.1,0,novel fabricated dualdetector cell,,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,200,3,-1.6,1,novel fabricated dualdetector cell,,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,300,3,-1.6,1,novel fabricated dualdetector cell,,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,300,5,-1.6,1,novel fabricated dualdetector cell,,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,300,6.8,-1.2,1,novel fabricated dualdetector cell,,
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,40,3,6,0,static light scattering technique,,Velev et al. (1998)
+Chymotrypsinogen,20195.1,10894.08,9511.7,-4563.975,7.68,40,3,1.9,0,static light scattering technique,,Tessier et al. (2002)
+Chymotrypsin,18839.32,9724.38,9495.31,-5117.3714,8.33,40,3,0.8,0,novel fabricated dualdetector cell,,
+Chymotrypsin,18839.32,9724.38,9495.31,-5117.3714,8.33,100,3,0.1,0,novel fabricated dualdetector cell,,
+Chymotrypsin,18839.32,9724.38,9495.31,-5117.3714,8.33,200,3,-3.3,1,novel fabricated dualdetector cell,,
+Chymotrypsin,18839.32,9724.38,9495.31,-5117.3714,8.33,300,3,-5.8,1,novel fabricated dualdetector cell,,
+Lactoferrin,1659.09,839.63,840.49,-912.61087,9.5,100,7,24.4,0,SIC (self interaction chromatography),,
+Lactoferrin,1659.09,839.63,840.49,-912.61087,9.5,300,7,22.5,0,SIC (self interaction chromatography),,
+Lactoferrin,1659.09,839.63,840.49,-912.61087,9.5,500,7,21,0,SIC (self interaction chromatography),,
+Catalase,60430.38,34790.83,27003.4,-16910.795,5.4,100,6.5,-23.1,1,SIC (self interaction chromatography),,
+Catalase,60430.38,34790.83,27003.4,-16910.795,5.4,300,6.5,-6.4,1,SIC (self interaction chromatography),,
+Catalase,60430.38,34790.83,27003.4,-16910.795,5.4,500,6.5,-4,1,SIC (self interaction chromatography),,
+Concanavalin A,9951.38,5357.11,5072.38,-2791.7782,5,100,4.5,-15.9,1,SIC (self interaction chromatography),,
+Concanavalin A,9951.38,5357.11,5072.38,-2791.7782,5,300,4.5,-1.2,1,SIC (self interaction chromatography),,
+Concanavalin A,9951.38,5357.11,5072.38,-2791.7782,5,500,4.5,2.8,0,SIC (self interaction chromatography),,
